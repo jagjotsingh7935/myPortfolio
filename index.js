@@ -108,7 +108,7 @@ function myProject2() {
  }
 
  function myProject4(){
-  window.open("https://jagjotsingh7935.github.io/password-strength-check/");
+  window.open("https://jagjotsingh7935.github.io/ImageSearcher/");
  }
 
 function myProject5(){
