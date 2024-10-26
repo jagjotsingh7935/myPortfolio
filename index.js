@@ -95,13 +95,14 @@ function myProject1(){
   
 };
 
+function myProject2() { 
+  window.open("https://jagjotsingh7935.github.io/shopping-E-Commerce/");
+ }
+
 function myProject0() {
   window.open("https://jagjotsingh7935.github.io/Quiz-app/");
   }
 
-function myProject2() { 
-  window.open("https://jagjotsingh7935.github.io/Temperature-converter/");
- }
 
  function myProject3(){
   window.open("https://jagjotsingh7935.github.io/DiceRoll-Game/");
