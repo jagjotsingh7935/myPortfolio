@@ -1,0 +1,309 @@
+   <!-- service section end -->
+    <!-- portfolio section start -->
+    <!-- <section class="container portfolio" id="portfolio">
+        <div class="clr-shadow clr-shadow-two"></div>
+        <div class="clr-shadow clr-shadow-three"></div>
+        <div class="section-heading-two">
+            <div class="section-text">
+                <p class="sub-heading">our previous work</p>
+                <h2 class="heading-two">see companies <br> that growed with me </h2>
+            </div>
+            <div class="btn-container">
+                <button class="btn active" data-btn="all">all</button>
+                <button class="btn" data-btn="app_ui">app UI</button>
+                <button class="btn" data-btn="website_ui">website UI</button>
+                <button class="btn" data-btn="dashboard_ui">dashboard UI</button>
+            </div>
+        </div>
+        <div class="grid-row">
+            <figure class="col" data-item="dashboard_ui"><img src="asset/port-9.png" alt=""></figure>
+            <figure class="col" data-item="website_ui"><img src="asset/port-2.png" alt=""></figure>
+            <figure class="col" data-item="dashboard_ui"><img src="asset/port-1.png" alt=""></figure>
+            <figure class="col" data-item="website_ui"><img src="asset/port-4.png" alt=""></figure>
+            <figure class="col" data-item="app_ui"><img src="asset/port-3.png"></figure>
+            </figure>
+            <figure class="col" data-item="dashboard_ui"><img src="asset/port-5.png" alt=""></figure>
+            <figure class="col" data-item="app_ui"><img src="asset/port-6.png" alt=""></figure>
+            <figure class="col" data-item="website_ui"><img src="asset/port-7.png" alt=""></figure>
+            <figure class="col" data-item="app_ui"><img src="asset/port-8.png" alt=""></figure>
+        </div>
+    </section> -->
+
+
+
+
+
+/* review section start */
+
+/* .swiper {
+    width: 1240px;
+    height: 100%;
+    margin: auto;
+    padding: var(--pad-sec);
+}
+
+.swiper-slide {
+   width: 100%;
+   height: 100%;
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 60px;
+}
+
+.swiper-slide .col {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--clr-light-gray);
+    border-radius: var(--border-rad-col);
+    padding: var(--pad-lg);
+    gap: 10px;
+    text-align: center;
+}
+
+.review_contianer{
+   padding: var(--pad-container);
+
+}
+
+.review_contianer .col .review-header{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.review_contianer .col .review-header .client-info{
+   display: flex;
+   align-items: center;
+   flex: 1;
+   gap: 8px;
+}
+
+.review-header .client-info img{
+   width: 50px;
+}
+.review-header .client-info .client-name{
+   display: flex;
+   flex-direction: column;
+}
+.review-header .client-info .client-name h4{
+   font-size: 1.2rem;
+   text-transform: capitalize;
+}
+.review-header .client-info .client-name p{
+   text-align: left;
+   font-size: .6rem;
+}
+.review_contianer .review-header .client-ratting{
+   flex: 1;
+   font-size: .8rem;
+   text-align: right;
+}
+
+.review_contianer .review-body{
+   font-size: .9rem;
+}
+.review_contianer a{
+   text-decoration: underline;
+   text-underline-offset: 4px;
+   text-transform: capitalize;
+   font-size: .9rem;
+}
+
+.review_contianer .section-heading{
+   align-items: flex-start;
+  
+}
+
+.review_contianer .section-heading .sub-heading{
+   position: relative;
+}
+.review_contianer .section-heading .sub-heading::after{
+   content: '';
+   position: absolute;
+   top:50%;
+   left: 110%;
+   width: 60px;
+   height: 4px;
+   background-color: var(--clr-sec);
+   border-radius: var(--border-rad-btn);
+} */
+
+
+
+
+    <!-- review (testimonial) start -->
+    <!-- <section class="container review_contianer" id="review">
+        <div class="section-heading">
+            <p class="sub-heading">client review</p>
+            <h2 class="heading-two">what's client say <br> about our services</h2>
+        </div>
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="col">
+                        <div class="review-header">
+                            <div class="client-info">
+                                <img src="asset/client1.jpg" alt="">
+                                <div class="client-name">
+                                    <h4 class="heading-four">hamza ali</h4>
+                                    <p class="title">dashboard</p>
+                                </div>
+                            </div>
+                            <div class="client-ratting">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                        </div>
+                        <p class="review-body">
+                            Your dashboard design is sleek, intuitive, and <br>user-friendly,
+                            with clear metrics and appealing <br> visuals for
+                            efficient data management and analysis.
+                        </p>
+                        <a href="index.html">read more</a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="col">
+                        <div class="review-header">
+                            <div class="client-info">
+                                <img src="asset/client2.png" alt="">
+                                <div class="client-name">
+                                    <h4 class="heading-four">rahul</h4>
+                                    <p class="title">graphic</p>
+                                </div>
+                            </div>
+                            <div class="client-ratting">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                        </div>
+                        <p class="review-body">
+                            Your dashboard design is sleek, intuitive, and <br>user-friendly,
+                            with clear metrics and appealing <br> visuals for
+                            efficient data management and analysis.
+                        </p>
+                        <a href="index.html">read more</a>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="col">
+                        <div class="review-header">
+                            <div class="client-info">
+                                <img src="asset/client3.png" alt="">
+                                <div class="client-name">
+                                    <h4 class="heading-four">Div Joe</h4>
+                                    <p class="title">website</p>
+                                </div>
+                            </div>
+                            <div class="client-ratting">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                        </div>
+                        <p class="review-body">
+                            Your dashboard design is sleek, intuitive, and <br>user-friendly,
+                            with clear metrics and appealing <br> visuals for
+                            efficient data management and analysis.
+                        </p>
+                        <a href="index.html">read more</a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="col">
+                        <div class="review-header">
+                            <div class="client-info">
+                                <img src="asset/client1.jpg" alt="">
+                                <div class="client-name">
+                                    <h4 class="heading-four">hamza ali</h4>
+                                    <p class="title">dashboard</p>
+                                </div>
+                            </div>
+                            <div class="client-ratting">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                        </div>
+                        <p class="review-body">
+                            Your dashboard design is sleek, intuitive, and <br>user-friendly,
+                            with clear metrics and appealing <br> visuals for
+                            efficient data management and analysis.
+                        </p>
+                        <a href="index.html">read more</a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="col">
+                        <div class="review-header">
+                            <div class="client-info">
+                                <img src="asset/client1.jpg" alt="">
+                                <div class="client-name">
+                                    <h4 class="heading-four">hamza ali</h4>
+                                    <p class="title">dashboard</p>
+                                </div>
+                            </div>
+                            <div class="client-ratting">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                        </div>
+                        <p class="review-body">
+                            Your dashboard design is sleek, intuitive, and <br>user-friendly,
+                            with clear metrics and appealing <br> visuals for
+                            efficient data management and analysis.
+                        </p>
+                        <a href="index.html">read more</a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="col">
+                        <div class="review-header">
+                            <div class="client-info">
+                                <img src="asset/client1.jpg" alt="">
+                                <div class="client-name">
+                                    <h4 class="heading-four">hamza ali</h4>
+                                    <p class="title">dashboard</p>
+                                </div>
+                            </div>
+                            <div class="client-ratting">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                        </div>
+                        <p class="review-body">
+                            Your dashboard design is sleek, intuitive, and <br>user-friendly,
+                            with clear metrics and appealing <br> visuals for
+                            efficient data management and analysis.
+                        </p>
+                        <a href="index.html">read more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </section> -->
